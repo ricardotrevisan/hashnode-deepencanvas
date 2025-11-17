@@ -1,5 +1,5 @@
 ---
-title: "🕵️‍♀️ The Agentic Agent"
+title: "The Agentic Agent"
 datePublished: Mon Nov 17 2025 20:07:39 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3kthx3000102jr9yxz6xan
 slug: the-agentic-agent
