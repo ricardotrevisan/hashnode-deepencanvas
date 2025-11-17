@@ -22,6 +22,8 @@ That’s when the team trusts what it sees—because the system has been observe
 
 This is the point at which the company achieves operational clarity: knowing what’s happening now, and what it means—in real time.
 
-📎 Source: How a CPU spike led to uncovering a RansomHub ransomware attack : https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/
+📎 Source:
+
+• How a CPU spike led to uncovering a RansomHub ransomware attack : https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/
 
 #Observability #Security #Ransomware #CyberSecurity #SRE #DevSecOps
