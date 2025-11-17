@@ -1,8 +1,8 @@
 ---
-title: "Artificial Intelligence is shaping the future of markets and innovation at a remarkable pace. Its in"
+title: "Artificial Intelligence is shaping the future of markets and innovation at a remarkable pace"
 datePublished: Mon Nov 17 2025 20:23:28 GMT+0000 (Coordinated Universal Time)
 cuid: cmi3ldu5b000402lbczrg5e2k
-slug: artificial-intelligence-is-shaping-the-future-of-markets-and-innovation-at-a-remarkable-pace-its-in
+slug: artificial-intelligence-is-shaping-the-future-of-markets-and-innovation-at-a-remarkable-pace
 cover: https://raw.githubusercontent.com/ricardotrevisan/ricardotrevisan.github.io/master/images/image_20250929.jpg
 tags: ai, innovation, artificialintelligence
 
