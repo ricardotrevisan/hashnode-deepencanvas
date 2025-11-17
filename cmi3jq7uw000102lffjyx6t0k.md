@@ -10,8 +10,7 @@ tags: deeplearning, cognition, reasoning, artificialintelligence, airesearch, sy
 
 Artificial intelligence has split into two worlds: symbolic logic, which reasons about facts and rules; and neural networks, which learn patterns without being able to explain them.
 
-On one side, deductive intelligence — precise, coherent, but rigid.
-On the other, associative intelligence — flexible, adaptive, but opaque.
+On one side, deductive intelligence — precise, coherent, but rigid. On the other, associative intelligence — flexible, adaptive, but opaque.
 
 Common to both is their failure to achieve understanding, merely repeating rules or probabilistic deductions.
 
@@ -21,9 +20,7 @@ In his proposal, Domingos shows it's possible to represent facts and logical rul
 
 In this new approach, inference and learning cease to be separate fields. Facts and rules are represented as tensors; deduction and optimization become differentiable operations of a single equation.
 
-Logic ceases to be static and gains plasticity.
-The network ceases to be blind and gains structure.
-The result is a model that can think and learn simultaneously.
+Logic ceases to be static and gains plasticity. The network ceases to be blind and gains structure. The result is a model that can think and learn simultaneously.
 
 He adds to the associative intelligence of current neural networks logical relations, constraints, and ways to infer new truths — deductive intelligence. This integration opens the path for neuro-symbolic architectures, where perception, reasoning, and metacognition coexist in balance.
 
@@ -31,14 +28,16 @@ But there are risks, of course. High-level abstractions can cause us to lose des
 
 This relaxation, though risky, brings AI closer to a more organic functioning — the human brain already does this naturally, coordinating autonomous modules of perception, language, memory, and control under a single dynamic system. In studies like Domingos', we begin to reproduce this principle.
 
-The boundary is no longer between symbols and neurons — but between correlation and consciousness, between processing and understanding.
-Thinking about thinking has never been a light task — and perhaps that is where intelligence truly begins. My head feels heavy right now.
+The boundary is no longer between symbols and neurons — but between correlation and consciousness, between processing and understanding. Thinking about thinking has never been a light task — and perhaps that is where intelligence truly begins. My head feels heavy right now.
 
 Today we pay tribute to Aristotle — the father of Logic — and Gauss — the father of Statistics.
 
 **Sources:**
+
 • Pedro Domingos — *Tensor Logic* (arXiv, 2025) : https://arxiv.org/html/2510.12269v2
+
 • Yoshua Bengio — *System 2 Deep Learning* : https://www.youtube.com/watch?v=FtUbMG3rlFs
+
 • IBM — *Neuro-Symbolic AI Initiative* : https://cacm.acm.org/news/neurosymbolic-ai/
 
 #TensorLogic #NeuroSymbolicAI #ArtificialIntelligence #SymbolicAI #DeepLearning #Reasoning #Cognition #AIResearch
