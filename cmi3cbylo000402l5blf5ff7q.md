@@ -26,6 +26,12 @@ Thus, sparse doesn’t explain the dense, but teaches us how to understand it. T
 
 Interesting, isn’t it? How can an unseen risk easily seem nonexistent?
 
-Sources: OpenAI: Understanding neural networks through sparse circuits - https://openai.com/index/understanding-neural-networks-through-sparse-circuits/ David Finsterwalder - Neural-Network-Visualisation - https://nn-vis.noelith.dev/ David Finsterwalder - Github Repo - https://github.com/DFin/Neural-Network-Visualisation
+Sources:
+
+• OpenAI: Understanding neural networks through sparse circuits - https://openai.com/index/understanding-neural-networks-through-sparse-circuits/
+
+• David Finsterwalder - Neural-Network-Visualisation - https://nn-vis.noelith.dev/
+
+• David Finsterwalder - Github Repo - https://github.com/DFin/Neural-Network-Visualisation
 
 #AI #ArtificialIntelligence #MachineLearning #ExplainableAI #InterpretableAI #NeuralNetworks #SparseCircuits #OpenAI
