@@ -19,6 +19,5 @@ The adoption of AI in the context of global crises reinforces the importance of 
 #ArtificialIntelligence #AI #Innovation
 
 📚 **Sources:**
-- Feedspot: https://rss.feedspot.com/ai_rss_feeds/
-- Feedspot: https://rss.feedspot.com/machine_learning_rss_feeds/
-- MIT Technology Review: https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/
+
+* MIT Technology Review: https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/
