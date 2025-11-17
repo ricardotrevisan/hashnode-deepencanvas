@@ -16,9 +16,10 @@ Technically, the paper shows that the Transformer creates a temporary network ta
 
 Learning from context could become as important as formal training — paving the way for self-improving models and truly adaptive AI.
 
-#EphemeralLearning  #InContextAI #AdaptiveIntelligence
+#EphemeralLearning #InContextAI #AdaptiveIntelligence
 
 📚 **Sources:**
 
 • Google Research - Learning without training: https://arxiv.org/html/2507.16003v1
+
 • Ricardo Trevisan - In Context Learning Simulation: https://github.com/ricardotrevisan/incontext-learning
