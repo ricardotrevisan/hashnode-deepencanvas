@@ -1,5 +1,5 @@
 ---
-title: "**Chaos Engineering: prepare for the worst-case scenario**"
+title: "Chaos Engineering: prepare for the worst-case scenario"
 datePublished: Tue Nov 18 2025 16:26:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmi4sdccz000302l41ogm414u
 slug: chaos-engineering-prepare-for-the-worst-case-scenario
