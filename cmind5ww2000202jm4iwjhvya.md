@@ -1,8 +1,8 @@
 ---
-title: "**For Decision Makers: How to Separate Signal from Noise in Times of Exponential Hype**"
+title: "Decision Makers: How to Separate Signal from Noise in Times of Exponential Hype"
 datePublished: Mon Dec 01 2025 16:28:45 GMT+0000 (Coordinated Universal Time)
 cuid: cmind5ww2000202jm4iwjhvya
-slug: for-decision-makers-how-to-separate-signal-from-noise-in-times-of-exponential-hype
+slug: decision-makers-how-to-separate-signal-from-noise-in-times-of-exponential-hype
 cover: https://raw.githubusercontent.com/ricardotrevisan/ricardotrevisan.github.io/master/images/image_1_20251201.png
 tags: ai, opensource, innovation, stoicism, agi, aiethics, decisionmaking, techpolicy
 
