@@ -10,7 +10,8 @@ tags: ai, analytics, ml, mlops, aiops, aiinfrastructure, techleadership, enterpr
 
 > **“The bottleneck is not the models themselves. What’s holding enterprises back is the surrounding infrastructure.”**
 
-A MIT Technology Review, em publicação recente, resume com precisão cirúrgica o momento atual da IA corporativa.  
+A recent publication by MIT Technology Review perfectly summarizes the current state of corporate AI.
+
 We’re not held back by a lack of better models. We’re held back by **decisions made too early** — and perpetuated by a mistaken reading of the problem.
 
 The frustration that many companies are starting to feel with AI does not stem from technical failure. On the contrary: LLMs work, RAGs respond, demos impress. The impasse arises when these initiatives try to leave the *showcase* and run into a reality built on inaccessible data, rigid integrations, brittle pipelines, and deployment paths that don’t tolerate change, error, or scale.
@@ -19,7 +20,6 @@ The bottleneck isn’t the model.
 It’s the infrastructure — technical *and* organizational — that should support it.
 
 ---
-
 
 We need to widen the lens to the **moment before deciding to invest in AI**. The problem begins before the technology: in the executive read that makes explicit — or not — the motivation behind adoption initiatives, regardless of the tool chosen.
 
@@ -68,10 +68,14 @@ And here’s the uncomfortable truth:
 
 Not due to technical incapacity, but because:
 
-* the processes were never clearly defined,  
-* the data were never treated as business assets,  
-* the results were never linked to real decisions,  
+* the processes were never clearly defined,
+    
+* the data were never treated as business assets,
+    
+* the results were never linked to real decisions,
+    
 * and accountability was always pushed to the tool.
+    
 
 AI doesn’t fix these failures. It **exposes them faster and at a higher cost**.
 
@@ -91,10 +95,14 @@ Constantly swapping models is rarely a strategic decision. More often, it’s **
 
 Thus the circle of fools begins. The model changes, but:
 
-* the process remains poorly defined,  
-* the data stay fragmented,  
-* the integration stays fragile,  
+* the process remains poorly defined,
+    
+* the data stay fragmented,
+    
+* the integration stays fragile,
+    
 * and deployment remains artisanal.
+    
 
 Costs rise. Frustration grows. And the diagnosis stays wrong.
 
@@ -155,6 +163,8 @@ Starting right — with reframing, strategy, measurement cycles, and incremental
 The quiet AI revolution isn’t in the models. It’s in how organizations decide to adopt them.
 
 📚 Sources:
-- MIT Technology Review: https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/
+
+* MIT Technology Review: https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/
+    
 
 #AI #EnterpriseAI #AIOps #AIInfrastructure #Analytics #ML #MLOps #TechLeadership
