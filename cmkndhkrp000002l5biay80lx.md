@@ -2,7 +2,7 @@
 title: "The Promise of “Disposable Software”"
 datePublished: Wed Jan 21 2026 01:57:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmkndhkrp000002l5biay80lx
-slug: the-promise-of-disposable-software
+slug: the-promise-of-disposable-software--deleted
 cover: https://raw.githubusercontent.com/ricardotrevisan/ricardotrevisan.github.io/master/images/image_1_20260120.png
 tags: ai, reliability, softwareengineering, techtrends, enterprisesoftware, cognitiveload, disposablesoftware
 
