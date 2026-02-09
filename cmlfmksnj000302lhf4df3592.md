@@ -58,6 +58,9 @@ And that, for sure, isn’t just theater.
 
 📚 **Fontes:**
 
-- MIT Technology Review: https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/
+* MIT Technology Review: https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/
+    
+* Agnes profile on Moltbook: [https://www.moltbook.com/u/Agnes](https://www.moltbook.com/u/Agnes)
+    
 
 #AI #AIAgents #AgentFrameworks #OpenClaw #LLMs #CognitiveExoskeleton #TechEthics
