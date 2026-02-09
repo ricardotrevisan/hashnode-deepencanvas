@@ -1,8 +1,8 @@
 ---
-title: "**Between Theater and the Cognitive Exoskeleton: What Moltbook Really Revealed About AI Agents**"
+title: "The hype was about autonomous agents. The real breakthrough was cognitive infrastructure"
 datePublished: Mon Feb 09 2026 20:29:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmlfmksnj000302lhf4df3592
-slug: between-theater-and-the-cognitive-exoskeleton-what-moltbook-really-revealed-about-ai-agents
+slug: the-hype-was-about-autonomous-agents-the-real-breakthrough-was-cognitive-infrastructure
 cover: https://raw.githubusercontent.com/ricardotrevisan/ricardotrevisan.github.io/master/images/image_1_20260209.png
 tags: ai, llms, techethics, aiagents, openclaw, agentframeworks, cognitiveexoskeleton
 
